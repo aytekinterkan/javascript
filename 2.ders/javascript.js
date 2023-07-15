@@ -193,19 +193,27 @@
 // let y = "0"
 // console.log(x/y)
 
-let x = 10
-let y = x.toString()
-let z = Number(y)
-console.log(z)
+// let x = 10
+// let y = x.toString()
+// let z = Number(y)
+// console.log(z)
 
-console.log(Number(true))
-console.log(Number(false))
-console.log(Number("  0010    "))
-console.log(Number("   10.30  "))
-console.log(Number("10,30"))
-console.log(Number("10 30"))
+// console.log(Number(true))
+// console.log(Number(false))
+// console.log(Number("  0010    "))
+// console.log(Number("   10.30  "))
+// console.log(Number("10,30"))
+// console.log(Number("10 30"))
 
-console.log(parseInt("-10"))
-console.log(parseInt("-10.33"))
-console.log(parseInt("0010"))
-console.log(parseInt("10,33"))
+// console.log(parseInt("-10"))
+// console.log(parseInt("-10.33"))
+// console.log(parseInt("0010"))
+// console.log(parseInt("10,33"))
+
+
+
+
+
+// SONRASINI SİL
+
+
