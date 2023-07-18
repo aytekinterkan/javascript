@@ -178,55 +178,56 @@
 
 //switch use strict comparison (===)
 //getDay haftanın günlerini 0-6 arasında veriyor (0 : pazar , 1:pzt ... 6:cumartesi)
-let day;
-switch(new Date().getDay()) {
-    case 0:
-        day = "Pazar";
-        break;
-    case "1":
-        day = "Pazartesi";
-        break;
-    case 2:
-        day = "Salı";
-        break;
-    case 3:
-        day = "Çarşamba";
-        break;
-    case 4:
-        day = "Perşembe";
-        break;
-    case 5:
-        day = "Cuma";
-        break;
-    case 6:
-        day = "Cumartesi";
-        break;
-    default:
-        day = "Hatalı veri"
-}
-console.log(day)
+// let day;
+// switch(new Date().getDay()) {
+//     case 0:
+//         day = "Pazar";
+//         break;
+//     case "1":
+//         day = "Pazartesi";
+//         break;
+//     case 2:
+//         day = "Salı";
+//         break;
+//     case 3:
+//         day = "Çarşamba";
+//         break;
+//     case 4:
+//         day = "Perşembe";
+//         break;
+//     case 5:
+//         day = "Cuma";
+//         break;
+//     case 6:
+//         day = "Cumartesi";
+//         break;
+//     default:
+//         day = "Hatalı veri"
+// }
+// console.log(day)
 
-if(new Date().getDay() === 0){
-    console.log("Pazar")
-}
-else if (new Date().getDay() === 1){
-    console.log("Pazartesi")
-}
-else if (new Date().getDay() === 2){
-    console.log("Salı")
-}
-else if (new Date().getDay() === 3){
-    console.log("Carsamba")
-}
-else if (new Date().getDay() === 4){
-    console.log("Persembe")
-}
-else if (new Date().getDay() === 5){
-    console.log("Cuma")
-}
-else if (new Date().getDay() === 6){
-    console.log("Cumartesi")
-}
-else {
-    console.log("Hatalı veri")
-}
+// if(new Date().getDay() === 0){
+//     console.log("Pazar")
+// }
+// else if (new Date().getDay() === 1){
+//     console.log("Pazartesi")
+// }
+// else if (new Date().getDay() === 2){
+//     console.log("Salı")
+// }
+// else if (new Date().getDay() === 3){
+//     console.log("Carsamba")
+// }
+// else if (new Date().getDay() === 4){
+//     console.log("Persembe")
+// }
+// else if (new Date().getDay() === 5){
+//     console.log("Cuma")
+// }
+// else if (new Date().getDay() === 6){
+//     console.log("Cumartesi")
+// }
+// else {
+//     console.log("Hatalı veri")
+// }
+
