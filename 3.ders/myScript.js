@@ -142,5 +142,21 @@
 // let deger2 = deger.split()
 // console.log(deger2)
 
-const fruits = ["Apple","Orange","Kiwi","Mango"]
-console.log(fruits.includes("Mango"))
+// const fruits = ["Apple","Orange","Kiwi","Mango"]
+// console.log(fruits.includes("Mango"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
